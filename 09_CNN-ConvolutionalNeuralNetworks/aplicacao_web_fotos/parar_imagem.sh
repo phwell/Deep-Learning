@@ -1,0 +1,1 @@
+docker stop cnn_python_ceub
